@@ -35,3 +35,6 @@ Classées par composant dans `screenshots/` :
 - `screenshots/kali/` — VM6 (nmap, Responder, openssl, ldapsearch)
 
 Voir `image-mapping.md` pour la correspondance détaillée entre chaque capture et la section du rapport qu'elle illustre.
+
+## Démonstration vidéo
+🎥 [Voir la démo sur Drive]([TON_LIEN_ICI](https://drive.google.com/file/d/1-cNNpI4xIwMSaolwHZwY_Iid8mlygH8y/view?usp=sharing))
