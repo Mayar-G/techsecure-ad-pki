@@ -37,4 +37,4 @@ Classées par composant dans `screenshots/` :
 Voir `image-mapping.md` pour la correspondance détaillée entre chaque capture et la section du rapport qu'elle illustre.
 
 ## Démonstration vidéo
-🎥 [Voir la démo sur Drive](https://drive.google.com/file/d/1-cNNpI4xIwMSaolwHZwY_Iid8mlygH8y/view?usp=sharing)
+🎥 [Voir la démo sur Drive](https://drive.google.com/file/d/18p0vel6CIwDqqo9bVFbOihk6C88uxtZQ/view?usp=drive_link)
