@@ -65,5 +65,4 @@ Référence utile si tu veux légender précisément chaque capture ailleurs (Li
 | 10 à 12-certificat-x509-complet-*.png | Détail complet du certificat X.509 (Subject, Issuer, SHA-256) |
 | 13, 14-ldapsearch-annuaire-ad-*.png | ldapsearch : requête LDAP vers l'annuaire AD |
 
-## Non inclus
-Le rapport contient aussi une **image34.emf** (icône d'une vidéo intégrée dans le Word, pas une vraie capture d'écran). Ce format n'est pas exploitable comme image PNG ; si tu as la vidéo de démonstration en fichier séparé (.mp4), ajoute-la plutôt dans un dossier `demo/` et lie-la dans le README.
+
